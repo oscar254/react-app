@@ -1,1 +1,1 @@
-# React App
+# React App [![CircleCI](https://circleci.com/gh/eduardorengifo/react-app/tree/master.svg?style=svg)](https://circleci.com/gh/eduardorengifo/react-app/tree/master)
